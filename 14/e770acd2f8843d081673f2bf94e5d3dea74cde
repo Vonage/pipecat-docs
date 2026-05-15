@@ -1,0 +1,31 @@
+docs.json
+  s_2bb8551a63b398::t_6796a7ebc70fc9 332
+api-reference/server/services/transport/vonage.mdx
+  s_2bb8551a63b398::t_a7bbc420f20852 239
+  s_2bb8551a63b398::t_0c84b75116194e 17-23
+  s_2bb8551a63b398::t_0578050e7be967 217
+  s_2bb8551a63b398::t_2fe0ac49544eca 26
+  s_2bb8551a63b398::t_0e53d6b536fbee 70-75
+  s_2bb8551a63b398::t_754351c3ee9cf0 235-238
+  s_2bb8551a63b398::t_c2858f732c4a42 1-16,24-25,27-68,76-216,218-234,240-313,319-334,342-367,369-390,392-409
+  s_2bb8551a63b398::t_6a9a1675936a2a 337-341
+  s_2bb8551a63b398::t_2910a83317bd09 368
+  s_2bb8551a63b398::t_270293f1e5e17e 314-318
+  s_2bb8551a63b398::t_710e0aa1098858 391
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.8",
+  "base_commit_sha": "14e770acd2f8843d081673f2bf94e5d3dea74cde",
+  "prompts": {},
+  "sessions": {
+    "s_2bb8551a63b398": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "55499a2e-0404-408e-b9cc-51448be5e529",
+        "model": "claude-sonnet-4.6"
+      },
+      "human_author": null
+    }
+  }
+}
