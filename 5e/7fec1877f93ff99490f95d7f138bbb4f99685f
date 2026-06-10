@@ -1,0 +1,24 @@
+api-reference/server/services/transport/vonage.mdx
+  s_8cd4e82032d533::t_be9cd8301ec47c 256
+  s_8cd4e82032d533::t_01a77740197558 86-87,89
+  s_8cd4e82032d533::t_709b510e0bf526 196-199
+  s_8cd4e82032d533::t_e0f91e43253ffc 148-157
+  s_8cd4e82032d533::t_a3e107b8a58b89 186
+  s_8cd4e82032d533::t_e6724e75dfb525 246,263-283
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "5e7fec1877f93ff99490f95d7f138bbb4f99685f",
+  "prompts": {},
+  "sessions": {
+    "s_8cd4e82032d533": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_14c789e55ffea8YRzHH7JU9MVX",
+        "model": "auto"
+      },
+      "human_author": "asilvestre <antoni.silvestrepadros@vonage.com>"
+    }
+  }
+}
